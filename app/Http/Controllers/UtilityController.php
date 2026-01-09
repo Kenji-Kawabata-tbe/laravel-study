@@ -1,5 +1,8 @@
 <?php
 
+// コントローラー作成コマンド
+// sail artisan make:controller RequestSampleController
+
 namespace App\Http\Controllers;
 
 use Illuminate\Http\Request;
